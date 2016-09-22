@@ -1,0 +1,97 @@
+
+@media screen and (max-width: 1258px){
+	.mainnavbox .mainnav{
+		width: 1157px;
+		overflow: hidden;
+	}
+	.navmlz,.navallx{
+		display: none
+	}
+	.banner-right{
+		display: none;
+	}
+	.maincontent .secondmain{
+		margin-left: 118px;
+	}
+	.firstmain {
+		width: 994px;
+		margin:0 auto;
+		overflow: hidden;
+		padding-right: 0;
+	}
+	.title-item{
+		width: 240px;
+	}
+	.topnav-left{
+		margin-left: 130px;
+	}
+	.topnav-right{
+		margin-right: 180px;
+	}
+	.content-right{
+		display: none;
+	}
+	.maincontent .thirdmain{
+		width: 1000px;
+		overflow: hidden;
+		padding-right:0;
+
+		
+	}
+	.maincontent .fourthmain{
+		width: 980px;
+		padding-right: 0px;
+		margin-left: 117px;
+	}
+	.maincontent .fourthmain a img{
+		margin-left: -320px;
+	}
+	.maincontent .fifthmain{
+		width: 980px;
+		overflow: hidden;
+		margin-top: 0px;
+		padding-right: 0px;
+		margin-left: 118px;
+	}
+	.maincontent .fifthmain .floor-line-con .floor .hot-word-con{
+		margin-right: 247px;
+	}
+	.maincontent .fifthmain .little-banner a img{
+		margin-left: -310px;
+	}
+	.maincontent .sixthmain{
+		display: none;
+	}
+	.maincontent .seventhmain{
+		width: 990px;
+		padding-right: 0;
+		/*margin-left: 120px;*/
+	}
+	.fp-left{
+		display: none;
+	}
+	.footer-box .footer .tmall-desc{
+		width: 1000px;
+	}
+	.footer-otherlink{
+		width: 1000px;
+	}
+	.fragment-load{
+		width: 1010px;
+		margin: auto;
+		overflow: hidden;
+	}
+	.footer-box .footer .tmall-desc .fragment-load dl{
+		height: 150px;
+		padding-left: 12px;
+	}
+	.footer-box .footer .tmall-desc .fragment-load dl dd{
+		position: absolute;
+		left: -27px;
+	}
+	.zuihoaa{
+		display: block;
+	}
+
+
+}
